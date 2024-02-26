@@ -1,0 +1,7 @@
+setup.py
+next_function/__init__.py
+next_function/mymodule.py
+next_function.egg-info/PKG-INFO
+next_function.egg-info/SOURCES.txt
+next_function.egg-info/dependency_links.txt
+next_function.egg-info/top_level.txt
